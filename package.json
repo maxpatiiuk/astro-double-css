@@ -1,0 +1,16 @@
+{
+  "name": "css-layer-repro",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@esri/calcite-components": "^3.3.3",
+    "monaco-editor": "^0.55.1",
+    "astro": "^5.16.4"
+  }
+}
